@@ -3,10 +3,9 @@ import streamlit as st
 st.set_page_config(page_title="Karakter Meta ZZZ 1.7", page_icon="🎮")
 
 st.title("Tugas Informatika membuat website menggunakan Github & StreamLit")
-st.write("Buatan Nafathan Shienzi Athalagemar, XC, Absen 21")
-
-st.write(" ")
-st.write(" ")
+st.write("Buatan Nafathan Shienzi Athalagemar")
+st.write("Kelas XC")
+st.write("No.Absen 21")
 st.write("-----------------------------------------------------")
 st.write(" ")
 st.write(" ")
