@@ -8,7 +8,6 @@ st.write("Kelas XC")
 st.write("No.Absen 21")
 st.write("-----------------------------------------------------")
 st.write(" ")
-st.write(" ")
 
 st.title("Karakter Meta Versi 1.7 di Game ZZZ")
 st.write("Berikut adalah karakter meta saat ini di versi 1.7 ZZZ (Zenless Zone Zero) menurutku, Senji:")
