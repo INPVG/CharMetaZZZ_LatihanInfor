@@ -4,6 +4,7 @@ st.set_page_config(page_title="Karakter Meta ZZZ 1.7", page_icon="🎮")
 
 st.title("Tugas Informatika membuat website menggunakan Github & StreamLit")
 st.write("Buatan Nafathan Shienzi Athalagemar, XC, Absen 21")
+---
 st.title("Karakter Meta Versi 1.7 di Game ZZZ")
 st.write("Berikut adalah karakter meta saat ini di versi 1.7 ZZZ (Zenless Zone Zero) menurutku, Senji:")
 
