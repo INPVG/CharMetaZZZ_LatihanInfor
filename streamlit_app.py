@@ -1,13 +1,5 @@
 import streamlit as st
 
-st.markdown("""
-    <style>
-        .stApp {
-            background-color: #FFF4E0; /* Soft pastel orange */
-        }
-    </style>
-""", unsafe_allow_html=True)
-
 st.set_page_config(page_title="Karakter Meta ZZZ 1.7", page_icon="🎮")
 
 st.title("Karakter Meta Versi 1.7 di Game ZZZ")
