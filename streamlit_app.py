@@ -1,5 +1,23 @@
 import streamlit as st
 
+# Custom CSS for a soft orange background and gentle aesthetics
+st.markdown("""
+    <style>
+        body {
+            background-color: #FFF4E0;
+        }
+        .stApp {
+            background-color: #FFF4E0;
+        }
+        .css-18ni7ap {
+            background: #FFF4E0 !important;
+        }
+        .stHeader, .css-1avcm0n, .css-1d391kg {
+            background-color: #FFF4E0 !important;
+        }
+    </style>
+""", unsafe_allow_html=True)
+
 st.set_page_config(page_title="Karakter Meta ZZZ 1.7", page_icon="🎮")
 
 st.title("Karakter Meta Versi 1.7 di Game ZZZ")
