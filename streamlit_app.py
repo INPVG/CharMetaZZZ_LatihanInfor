@@ -21,10 +21,10 @@ st.markdown("""
 st.set_page_config(page_title="Karakter Meta ZZZ 1.7", page_icon="🎮")
 
 st.title("Karakter Meta Versi 1.7 di Game ZZZ")
-st.write("Berikut adalah karakter meta saat ini di versi 1.7 ZZZ (Zenless Zone Zero) menurutku, Senji:")
+st.write("Berikut adalah karakter meta saat ini di versi 1.7 ZZZ (Zenless Zone Zero):")
 
 st.header("1. Miyabi")
-st.image("460e998176c1e048838340c809048c6a_8948282656653229215.jpg",width=300, caption="Miyabi")
+st.image("https://static.wikia.nocookie.net/zenless-zone-zero/images/b/b8/Miyabi_Artwork.png", width=300, caption="Miyabi")
 st.markdown(
 """
 **Deskripsi:**
@@ -42,7 +42,7 @@ Miyabi adalah karakter meta utama di versi 1.7. Ia dikenal sebagai DPS dengan da
 )
 
 st.header("2. Astra Yao")
-st.image("IMG_20250527_041708.jpg", width=300, caption="Astra Yao")
+st.image("https://static.wikia.nocookie.net/zenless-zone-zero/images/6/61/Astro_Yao_Artwork.png", width=300, caption="Astra Yao")
 st.markdown(
 """
 **Deskripsi:**
