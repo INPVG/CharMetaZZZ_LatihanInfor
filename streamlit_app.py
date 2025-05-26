@@ -1,6 +1,5 @@
 import streamlit as st
 
-# Set a soft orange background using custom CSS
 st.markdown("""
     <style>
         .stApp {
