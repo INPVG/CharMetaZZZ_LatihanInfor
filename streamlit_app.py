@@ -23,7 +23,7 @@ Miyabi adalah karakter meta utama di versi 1.7. Ia dikenal sebagai DPS dengan da
 """
 )
 
-st.header("2. Astra Yao")
+st.header("2. Astra Yao (very flexible support)")
 st.image("IMG_20250527_041708.jpg", width=300, caption="Astra Yao")
 st.markdown(
 """
