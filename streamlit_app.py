@@ -13,7 +13,7 @@ st.write(" ")
 st.title("Karakter Meta Versi 1.7 di Game ZZZ")
 st.write("Berikut adalah karakter meta saat ini di versi 1.7 ZZZ (Zenless Zone Zero) menurutku, Senji:")
 
-st.header("1. Miyabi (my wife fr, best char in the game)")
+st.header("1. Miyabi (istri aku, best char in the game)")
 st.image("460e998176c1e048838340c809048c6a_8948282656653229215.jpg",width=300, caption="Miyabi")
 st.markdown(
 """
