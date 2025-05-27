@@ -46,6 +46,10 @@ Astra Yao adalah karakter pendukung meta di versi 1.7. Ia memiliki kemampuan hea
 - Damage pribadi rendah
 - Lebih efektif di tim tertentu
 
+st.write(" ")
+st.write("-----------------------------------------------------")
+st.write(" ")
+
 ---
 
 > **Catatan:** Informasi di atas berdasarkan meta terbaru pada versi 1.7 ZZZ. Meta dapat berubah seiring update berikutnya.
